@@ -1,1 +1,1 @@
-This project contains some stuff abou git
+Hi guys This project contains some stuff abou git
